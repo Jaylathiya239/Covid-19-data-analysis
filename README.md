@@ -36,7 +36,6 @@ This project explores global COVID-19 data using SQL to uncover trends, infectio
 ## 🗃️ Data Source
 
 - COVID-19 dataset from [Kaggle](https://www.kaggle.com/)  
-  *(Exact dataset name or link can be added here if known)*
 
 ---
 
